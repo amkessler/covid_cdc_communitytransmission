@@ -1,2 +1,2 @@
 # covid_cdc_communitytransmission
-analysis of the cdc's county-level community transmission data
+parsing and analysis of the cdc's county-level community transmission data
